@@ -8,5 +8,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Shevchuk",
+  "tokentest": "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",
   "license": "UNLICENSED"
 }
